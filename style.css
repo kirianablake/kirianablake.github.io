@@ -472,7 +472,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 90%;
     background-color: rgba(123, 124, 124, 0.425);
     backdrop-filter: blur(10px);
     border: 1px solid var(--jet);
