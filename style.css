@@ -77,7 +77,7 @@
     /* font-family */
 
 
-    littlefont, Press Start 2P, Lucida Console;
+    
   
     /* font-size */
     --fs-1: 24px;
@@ -469,7 +469,7 @@
   \*-----------------------------------*/
   
   .navbar {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
